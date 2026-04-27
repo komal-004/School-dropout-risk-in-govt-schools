@@ -15,7 +15,7 @@ This project focuses on predicting the risk of student dropout in government sch
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 * Python
 * Pandas (Data Handling)
@@ -33,6 +33,12 @@ The dataset is loaded from an Excel file containing student information such as:
 * School Type
 * Parent Education
 * Other academic and demographic features
+
+The dataset used in this project is publicly available on Kaggle:
+
+https://www.kaggle.com/datasets/kundanbedmutha/student-performance-dataset
+
+Download the dataset and place it in your project folder before running the code.
 
 Target Variable:
 
